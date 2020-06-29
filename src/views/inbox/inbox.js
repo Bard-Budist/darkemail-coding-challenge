@@ -113,7 +113,7 @@ const Inbox = (props) => {
      * of the new message together with the necessary data.
     */
     function sendMessage() {
-        axios.post("http://localhost:4000/send", {
+        axios.post("http://darkemail.me:3000/send", {
             from: fromData.current.value,
             subject: subject.current.value,
             text: textData.current.value,
