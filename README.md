@@ -1,6 +1,7 @@
 # DarkEmail - Coding Challenge
 
 DarkEmail is an email service in which you sign up, confirm your email and that's it! You have send the emails!
+![image](https://i.postimg.cc/26s1y2JH/image.png)
 
 ## Usage
 ***Remember to check your email in order to use the email service!***
